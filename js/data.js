@@ -343,6 +343,7 @@ const CV = {
         "SQL",
         "Postman",
         "Jira",
+        "AI"
       ],
     },
     {
@@ -376,7 +377,7 @@ const CV = {
     {
       id: "certifications",
       era: "knowledge",
-      year: "OutSystems x11",
+      year: "OutSystems x12",
       label: "Certificações",
       labelEn: "Certifications",
       labelEs: "Certificaciones",
@@ -395,6 +396,7 @@ const CV = {
             "Professional Platform Ops Engineer (O11)",
             "Security Specialist (O11)",
             "Web Developer Specialist (O11)",
+            "Web Developer Specialist (ODC)",
             "Professional Web Developer (O11)",
             "Professional Mobile Developer (O11)",
             "OutSystems Sales Associate",
