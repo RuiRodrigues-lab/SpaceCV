@@ -349,12 +349,12 @@ const CV = {
     {
       id: "education",
       era: "knowledge",
-      year: "IPS/ESCE",
+      year: "UPS/ESCE",
       label: "Educação",
       labelEn: "Education",
       labelEs: "Educación",
       title: { pt: "Educação", en: "Education", es: "Educación" },
-      company: "IPS / ESCE",
+      company: "UPS / ESCE",
       period: { pt: "", en: "", es: "" },
       bullets: {
         pt: [
@@ -365,7 +365,7 @@ const CV = {
         en: [
           "BSc in Distribution & Logistics Management — UPS/ESCE.",
           "Master's degree in Data Science for Business — UPS/ESCE.",
-          ".NET Developer — IPS/ESCE + Upskill.",
+          ".NET Developer — UPS/ESCE + Upskill.",
         ],
         es: [
           "Grado en Gestión de la Distribución y Logística — UPS/ESCE.",
